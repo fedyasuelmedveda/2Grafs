@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+packages
+OpenTK.dll.config
+packages.config
